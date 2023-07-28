@@ -2,7 +2,7 @@
 # Define the API endpoint URL
 $apiUrl = "https://api.weather.gov/alerts"
 
-# Set the location to St. Louis, MO
+# Set the location to St. Louis, MO **Don't forget to change this to your personal location! 
 $location = "St. Louis,MO"
 
 # Create the request URL with the location parameter
