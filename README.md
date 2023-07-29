@@ -2,7 +2,7 @@
 
 Powershell script that requests severe weather alerts and displays them in terminal.
 
-Usage
+#Usage#
 Download the script to desired location on your local machine by using > git clone "repo link"
 
 Open file in your chosen text editor
